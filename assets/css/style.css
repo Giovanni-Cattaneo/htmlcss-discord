@@ -19,13 +19,8 @@
 
 .login-button{
     padding: 0.5rem;
-    border-radius: 1.2rem;
+    border-radius: 5rem;
     border: transparent;
-}
-
-.login-button{
-    justify-content: flex-end;
-
 }
 
 .intestation{
@@ -180,8 +175,4 @@ h2{
     border-top: 1px solid white;
  }
 
- .end{
-    background-color: ;
-    border: none;
- }
 
