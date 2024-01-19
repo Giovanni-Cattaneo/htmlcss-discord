@@ -218,4 +218,7 @@ h2{
 #register-button{
     background-color: #697ec7;
     color: white;
+    padding: 0.5rem;
+    border-radius: 5rem;
+    border: transparent;
 }
