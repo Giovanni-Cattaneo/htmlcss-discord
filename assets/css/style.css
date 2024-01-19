@@ -17,11 +17,13 @@
     padding: 3px;
 }
 
-.login-button{
+button{
     padding: 0.5rem;
     border-radius: 5rem;
     border: transparent;
-}
+    background-color: white;
+ }
+
 
 .intestation{
     width: 500px;
@@ -166,13 +168,13 @@ h2{
  
 /* #endregion footer*/
 
- #final-logo-button{
-    display: flex;
+.bottom-symbol{
     background-color: #23272a;
-    padding-bottom: 10px;
-    padding-top: 5px;
+    display: flex;
     justify-content: center;
-    border-top: 1px solid white;
- }
+}
 
-
+#register-button{
+    background-color: #697ec7;
+    color: white;
+}
