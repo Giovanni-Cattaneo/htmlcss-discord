@@ -52,15 +52,13 @@ button{
 }
 
 .flex-container-first{
-    display: flex;
-    justify-content: center;
     background-color: #3161e0;
+    margin-bottom: 0;
+    text-align: center;
 }
 
 #jumbotron{
-    align-self: center;
-    margin: 20px;
-    max-width: fit-content;
+    max-width: 100%; 
 }
 
 /* #endregion main-first-container*/
