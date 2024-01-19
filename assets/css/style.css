@@ -150,38 +150,38 @@ h2{
 /* #region footer*/
 #site_footer{
     display: flex;
-    height: 350px;
-    background-color: greenyellow;
+    background-color: #23272a;
     justify-content: center;
  }
 
  .box{
-    height: 300px;
-    background-color: pink;
-    width: 50px;
-    border: 1px solid black;
     margin-top: 20px;
     margin-bottom: 20px;
+    color: white;
+    line-height: 2.3rem;
+    width: 8%;
  }
 
+ .heading-box{
+    color: #697ec7;
+ }
  .primary{
-    width: 200px;
+    width: 20%;
  }
  
 /* #endregion footer*/
 
  #final-logo-button{
     display: flex;
-    background-color: greenyellow;
+    background-color: #23272a;
     padding-bottom: 10px;
     padding-top: 5px;
     justify-content: center;
     border-top: 1px solid white;
-    
  }
 
  .end{
-    background-color: greenyellow;
+    background-color: ;
     border: none;
  }
 
