@@ -17,7 +17,7 @@
     padding: 3px;
 }
 
-button{
+.login-button{
     padding: 0.5rem;
     border-radius: 5rem;
     border: transparent;
@@ -73,6 +73,21 @@ h1{
     color: white;
     font-size: 20px;
     line-height: 2rem;
+}
+
+.button-download{
+    color: black;
+    border-radius: 3rem;
+    padding: 1rem;
+    margin-top: 3rem;
+    font-size: larger;
+    border: none;
+    margin-bottom: 2rem;
+}
+
+.browser{
+    color: white;
+    background-color: #23272a;
 }
 
 /* #endregion main-first-container*/
