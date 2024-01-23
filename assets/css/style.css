@@ -64,7 +64,7 @@ a:hover{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(/assets/img/jumbo.png);
+    background-image: url(../img/jumbo.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
